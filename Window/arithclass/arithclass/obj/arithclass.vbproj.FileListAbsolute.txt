@@ -1,0 +1,9 @@
+Z:\D Lab\Window\arithclass\arithclass\bin\Debug\arithclass.dll
+Z:\D Lab\Window\arithclass\arithclass\bin\Debug\arithclass.pdb
+Z:\D Lab\Window\arithclass\arithclass\bin\Debug\arithclass.xml
+Z:\D Lab\Window\arithclass\arithclass\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\arithclass\arithclass\obj\Debug\arithclass.Resources.resources
+Z:\D Lab\Window\arithclass\arithclass\obj\Debug\arithclass.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\arithclass\arithclass\obj\Debug\arithclass.dll
+Z:\D Lab\Window\arithclass\arithclass\obj\Debug\arithclass.xml
+Z:\D Lab\Window\arithclass\arithclass\obj\Debug\arithclass.pdb

@@ -1,0 +1,13 @@
+Z:\D Lab\Window\arithimple\arithimple\bin\Debug\arithimple.exe
+Z:\D Lab\Window\arithimple\arithimple\bin\Debug\arithimple.pdb
+Z:\D Lab\Window\arithimple\arithimple\bin\Debug\arithimple.xml
+Z:\D Lab\Window\arithimple\arithimple\bin\Debug\arithclass.dll
+Z:\D Lab\Window\arithimple\arithimple\bin\Debug\arithclass.pdb
+Z:\D Lab\Window\arithimple\arithimple\bin\Debug\arithclass.xml
+Z:\D Lab\Window\arithimple\arithimple\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\arithimple\arithimple\obj\Debug\arithimple.Form1.resources
+Z:\D Lab\Window\arithimple\arithimple\obj\Debug\arithimple.Resources.resources
+Z:\D Lab\Window\arithimple\arithimple\obj\Debug\arithimple.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\arithimple\arithimple\obj\Debug\arithimple.exe
+Z:\D Lab\Window\arithimple\arithimple\obj\Debug\arithimple.xml
+Z:\D Lab\Window\arithimple\arithimple\obj\Debug\arithimple.pdb
