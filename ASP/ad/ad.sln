@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Z:\dotnet lab\ad\", ".", "{B7E7D416-A5C2-4E59-BEC3-42F21277D59F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/ad"
+		Debug.AspNetCompiler.PhysicalPath = "Z:\dotnet lab\ad\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ad\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ad"
+		Release.AspNetCompiler.PhysicalPath = "Z:\dotnet lab\ad\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ad\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55424"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E7D416-A5C2-4E59-BEC3-42F21277D59F}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B7E7D416-A5C2-4E59-BEC3-42F21277D59F}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

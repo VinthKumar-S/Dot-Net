@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+    
+     <Ad>
+       <ImageUrl>p1.jpeg</ImageUrl>
+         <NavigateUrl>Default2.aspx</NavigateUrl>
+         <AlternateText>computer</AlternateText>
+         <Impression>2</Impression>
+         <Keyword>p</Keyword>
+     </Ad>
+
+
+  <Ad>
+    <ImageUrl>p2.jpeg</ImageUrl>
+    <NavigateUrl>Default2.aspx</NavigateUrl>
+    <AlternateText>computer</AlternateText>
+    <Impression>2</Impression>
+    <Keyword>p</Keyword>
+  </Ad>
+
+
+
+  <Ad>
+    <ImageUrl>p3.jpg</ImageUrl>
+    <NavigateUrl>Default2.aspx</NavigateUrl>
+    <AlternateText>computer</AlternateText>
+    <Impression>2</Impression>
+    <Keyword>p</Keyword>
+  </Ad>
+
+
+
+  <Ad>
+    <ImageUrl>d3.jpg</ImageUrl>
+    <NavigateUrl>Default3.aspx</NavigateUrl>
+    <AlternateText>fish</AlternateText>
+    <Impression>2</Impression>
+    <Keyword>d</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>d2.jpg</ImageUrl>
+    <NavigateUrl>Default3.aspx</NavigateUrl>
+    <AlternateText>fish</AlternateText>
+    <Impression>2</Impression>
+    <Keyword>d</Keyword>
+  </Ad>
+
+
+
+  <Ad>
+    <ImageUrl>d1.jpg</ImageUrl>
+    <NavigateUrl>Default3.aspx</NavigateUrl>
+    <AlternateText>fish</AlternateText>
+    <Impression>2</Impression>
+    <Keyword>d</Keyword>
+  </Ad>
+  
+</Advertisements>
+  
