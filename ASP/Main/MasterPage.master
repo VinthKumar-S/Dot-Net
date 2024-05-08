@@ -1,0 +1,63 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 1156px;
+        }
+        #form1
+        {
+            height: 258px;
+            width: 1304px;
+        }
+        .style2
+        {
+            width: 1336px;
+            height: 141px;
+        }
+        .style3
+        {
+            width: 142px;
+        }
+    </style>
+</head>
+<body bgcolor="#66ffff">
+    <form id="form1" runat="server">
+    
+    <table border="#66ffff" bgcolor="#66FFFF"><tr><td class="style2" bgcolor="#0099FF"> <br /><center><h1 style="height: 71px; width: 860px">
+        <asp:Label ID="Label1" runat="server" Text="Bank Management" 
+            Font-Names="Copperplate Gothic Bold" ForeColor="Lime"></asp:Label></h1></center>
+        &nbsp;</td></tr></table>
+    <table bgcolor="#66FFFF" border="#66ffff"><tr bgcolor="#0099FF"><td class="style3" 
+            bgcolor="#0099FF">
+        <br /><center>
+        <asp:Menu ID="Menu1" runat="server" Font-Names="Arial Black" 
+            ForeColor="#CCCC00" Height="357px" Width="135px" BackColor="#0099FF">
+            <Items>
+                <asp:MenuItem Text="Transaction" Value="Transaction">
+                    <asp:MenuItem Text="Withdraw" Value="Withdraw" NavigateUrl="~/Wid.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Deposite" Value="Deposite" NavigateUrl="~/deposit.aspx"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="About" Value="About" NavigateUrl="~/ab.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Create Account" Value="Create Account" 
+                    NavigateUrl="~/CA.aspx"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+    </center></td>
+   <td class="style1" bgcolor="#66FFFF">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div></td></tr>
+    </table>
+    </form>
+</body>
+</html>
