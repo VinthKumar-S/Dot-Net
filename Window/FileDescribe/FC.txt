@@ -1,0 +1,46 @@
+﻿Module Module1
+
+    Sub Main()
+        Dim queue As Queue = New Queue()
+        Dim i, ch As Integer
+        Dim ins As String
+        Do
+            System.Console.WriteLine("*********Queue Operation***************")
+            System.Console.WriteLine("1.Insertion")
+            System.Console.WriteLine("2.Deletion")
+            System.Console.WriteLine("3.Dispaly")
+            System.Console.WriteLine("")
+            System.Console.WriteLine("Enter the Choice..")
+            ch = Integer.Parse(Console.ReadLine())
+            Select Case ch
+                Case "1"
+                    System.Console.WriteLine("")
+                    System.Console.WriteLine("Insert into Queue.")
+                    ins = Console.ReadLine()
+                    queue.Enqueue(ins)
+                    System.Console.WriteLine("Queue Inserted.")
+                Case "2"
+                    System.Console.WriteLine("")
+                    Dim obj As Object
+                    obj = queue.Dequeue()
+                    System.Console.WriteLine(obj)
+                    System.Console.WriteLine("is Delateed From Queue..")
+
+
+                Case "3"
+                    System.Console.WriteLine("")
+                    System.Console.WriteLine("Queue Values Are..")
+                    For Each item In queue
+                        System.Console.WriteLine(item)
+                    Next
+                Case Else
+                    System.Console.WriteLine("Option is Not Present..")
+            End Select
+            System.Console.WriteLine("")
+            System.Console.WriteLine("Continu 1 or Exit 0..")
+            i = Integer.Parse(Console.ReadLine())
+        Loop While i > 0 And i = 1
+
+    End Sub
+
+End Module

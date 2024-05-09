@@ -1,0 +1,9 @@
+Z:\D Lab\Window\EBC\EBC\bin\Debug\EBC.dll
+Z:\D Lab\Window\EBC\EBC\bin\Debug\EBC.pdb
+Z:\D Lab\Window\EBC\EBC\bin\Debug\EBC.xml
+Z:\D Lab\Window\EBC\EBC\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\EBC\EBC\obj\Debug\EBC.Resources.resources
+Z:\D Lab\Window\EBC\EBC\obj\Debug\EBC.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\EBC\EBC\obj\Debug\EBC.dll
+Z:\D Lab\Window\EBC\EBC\obj\Debug\EBC.xml
+Z:\D Lab\Window\EBC\EBC\obj\Debug\EBC.pdb
