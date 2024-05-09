@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Datagrid
+</name>
+</assembly>
+<members>
+<member name="T:Datagrid.DGDataSet1.DC1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Datagrid.DGDataSet1.DC1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Datagrid.DGDataSet1.DC1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Datagrid.DGDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Datagrid.DGDataSet1TableAdapters.DC1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Datagrid.DGDataSet.DC1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Datagrid.DGDataSet.DC1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Datagrid.DGDataSet.DC1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Datagrid.DGDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Datagrid.DGDataSetTableAdapters.DC1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

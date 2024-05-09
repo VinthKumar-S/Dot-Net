@@ -1,0 +1,12 @@
+Z:\D Lab\Window\Datagrid\Datagrid\bin\Debug\DG.mdb
+Z:\D Lab\Window\Datagrid\Datagrid\bin\Debug\Datagrid.exe.config
+Z:\D Lab\Window\Datagrid\Datagrid\bin\Debug\Datagrid.exe
+Z:\D Lab\Window\Datagrid\Datagrid\bin\Debug\Datagrid.pdb
+Z:\D Lab\Window\Datagrid\Datagrid\bin\Debug\Datagrid.xml
+Z:\D Lab\Window\Datagrid\Datagrid\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\Datagrid\Datagrid\obj\Debug\Datagrid.Form1.resources
+Z:\D Lab\Window\Datagrid\Datagrid\obj\Debug\Datagrid.Resources.resources
+Z:\D Lab\Window\Datagrid\Datagrid\obj\Debug\Datagrid.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\Datagrid\Datagrid\obj\Debug\Datagrid.exe
+Z:\D Lab\Window\Datagrid\Datagrid\obj\Debug\Datagrid.xml
+Z:\D Lab\Window\Datagrid\Datagrid\obj\Debug\Datagrid.pdb
