@@ -1,0 +1,10 @@
+Z:\D Lab\Window\DBsearch\DBsearch\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\DBsearch\DBsearch\obj\Debug\DBsearch.Form1.resources
+Z:\D Lab\Window\DBsearch\DBsearch\obj\Debug\DBsearch.Resources.resources
+Z:\D Lab\Window\DBsearch\DBsearch\obj\Debug\DBsearch.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\DBsearch\DBsearch\bin\Debug\DBsearch.exe
+Z:\D Lab\Window\DBsearch\DBsearch\bin\Debug\DBsearch.pdb
+Z:\D Lab\Window\DBsearch\DBsearch\bin\Debug\DBsearch.xml
+Z:\D Lab\Window\DBsearch\DBsearch\obj\Debug\DBsearch.exe
+Z:\D Lab\Window\DBsearch\DBsearch\obj\Debug\DBsearch.xml
+Z:\D Lab\Window\DBsearch\DBsearch\obj\Debug\DBsearch.pdb
