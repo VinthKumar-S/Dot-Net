@@ -1,0 +1,9 @@
+Z:\D Lab\Window\StringOperation\StringOperation\bin\Debug\StringOperation.exe
+Z:\D Lab\Window\StringOperation\StringOperation\bin\Debug\StringOperation.pdb
+Z:\D Lab\Window\StringOperation\StringOperation\bin\Debug\StringOperation.xml
+Z:\D Lab\Window\StringOperation\StringOperation\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\StringOperation\StringOperation\obj\Debug\StringOperation.Resources.resources
+Z:\D Lab\Window\StringOperation\StringOperation\obj\Debug\StringOperation.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\StringOperation\StringOperation\obj\Debug\StringOperation.exe
+Z:\D Lab\Window\StringOperation\StringOperation\obj\Debug\StringOperation.xml
+Z:\D Lab\Window\StringOperation\StringOperation\obj\Debug\StringOperation.pdb

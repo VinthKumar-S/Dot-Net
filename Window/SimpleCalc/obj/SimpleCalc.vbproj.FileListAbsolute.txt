@@ -1,0 +1,10 @@
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Form1.resources
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Resources.resources
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.xml
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.xml
+Z:\D Lab\Window\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
