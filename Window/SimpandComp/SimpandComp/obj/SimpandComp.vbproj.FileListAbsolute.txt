@@ -1,0 +1,10 @@
+Z:\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\SimpandComp.Form1.resources
+Z:\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\SimpandComp.Resources.resources
+Z:\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\SimpandComp.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\SimpandComp\SimpandComp\bin\Debug\SimpandComp.exe
+Z:\D Lab\Window\SimpandComp\SimpandComp\bin\Debug\SimpandComp.pdb
+Z:\D Lab\Window\SimpandComp\SimpandComp\bin\Debug\SimpandComp.xml
+Z:\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\SimpandComp.exe
+Z:\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\SimpandComp.xml
+Z:\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\SimpandComp.pdb

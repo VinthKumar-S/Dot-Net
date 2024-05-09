@@ -1,0 +1,3 @@
+F:\Documents\PDF(for all)\Third Year\II\Dot Net\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\SimpandComp.exe
+F:\Documents\PDF(for all)\Third Year\II\Dot Net\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\SimpandComp.xml
+F:\Documents\PDF(for all)\Third Year\II\Dot Net\D Lab\Window\SimpandComp\SimpandComp\obj\Debug\SimpandComp.pdb

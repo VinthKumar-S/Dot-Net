@@ -1,0 +1,10 @@
+Z:\D Lab\Window\FileDetail\FileDetail\bin\Debug\FileDetail.exe
+Z:\D Lab\Window\FileDetail\FileDetail\bin\Debug\FileDetail.pdb
+Z:\D Lab\Window\FileDetail\FileDetail\bin\Debug\FileDetail.xml
+Z:\D Lab\Window\FileDetail\FileDetail\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\FileDetail\FileDetail\obj\Debug\FileDetail.Form1.resources
+Z:\D Lab\Window\FileDetail\FileDetail\obj\Debug\FileDetail.Resources.resources
+Z:\D Lab\Window\FileDetail\FileDetail\obj\Debug\FileDetail.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\FileDetail\FileDetail\obj\Debug\FileDetail.exe
+Z:\D Lab\Window\FileDetail\FileDetail\obj\Debug\FileDetail.xml
+Z:\D Lab\Window\FileDetail\FileDetail\obj\Debug\FileDetail.pdb
