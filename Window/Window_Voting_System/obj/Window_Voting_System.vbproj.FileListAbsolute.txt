@@ -1,0 +1,14 @@
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\bin\Debug\Window_Voting_System.exe
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\bin\Debug\Window_Voting_System.pdb
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\bin\Debug\Window_Voting_System.xml
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.adminlogin.resources
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.display.resources
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.Form1.resources
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.getname.resources
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.Resources.resources
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.votepage.resources
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.exe
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.xml
+Z:\D Lab\Window\Window_Voting_System\Window_Voting_System\Backup\Window_Voting_System\obj\Debug\Window_Voting_System.pdb

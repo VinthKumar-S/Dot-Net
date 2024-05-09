@@ -1,0 +1,6 @@
+Z:\D Lab\Window\Vote\Vote\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\Vote\Vote\obj\Debug\Vote.F1.resources
+Z:\D Lab\Window\Vote\Vote\obj\Debug\Vote.F2.resources
+Z:\D Lab\Window\Vote\Vote\obj\Debug\Vote.Form1.resources
+Z:\D Lab\Window\Vote\Vote\obj\Debug\Vote.Resources.resources
+Z:\D Lab\Window\Vote\Vote\obj\Debug\Vote.vbproj.GenerateResource.Cache
