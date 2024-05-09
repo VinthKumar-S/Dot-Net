@@ -1,0 +1,10 @@
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\bin\Debug\DbCreateInsert.exe
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\bin\Debug\DbCreateInsert.pdb
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\bin\Debug\DbCreateInsert.xml
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\obj\Debug\DbCreateInsert.Form1.resources
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\obj\Debug\DbCreateInsert.Resources.resources
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\obj\Debug\DbCreateInsert.vbproj.GenerateResource.Cache
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\obj\Debug\DbCreateInsert.exe
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\obj\Debug\DbCreateInsert.xml
+Z:\D Lab\Window\DbCreateInsert\DbCreateInsert\obj\Debug\DbCreateInsert.pdb
