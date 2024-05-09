@@ -1,0 +1,4 @@
+Z:\D Lab\Window\Eb\Window_EB_Bill_Calculation\Window_EB_Bill_Calculation\Backup\Window_EB_Bill_Calculation\obj\Debug\ResolveAssemblyReference.cache
+Z:\D Lab\Window\Eb\Window_EB_Bill_Calculation\Window_EB_Bill_Calculation\Backup\Window_EB_Bill_Calculation\obj\Debug\Window_EB_Bill_Calculation.Form1.resources
+Z:\D Lab\Window\Eb\Window_EB_Bill_Calculation\Window_EB_Bill_Calculation\Backup\Window_EB_Bill_Calculation\obj\Debug\Window_EB_Bill_Calculation.Resources.resources
+Z:\D Lab\Window\Eb\Window_EB_Bill_Calculation\Window_EB_Bill_Calculation\Backup\Window_EB_Bill_Calculation\obj\Debug\Window_EB_Bill_Calculation.vbproj.GenerateResource.Cache
