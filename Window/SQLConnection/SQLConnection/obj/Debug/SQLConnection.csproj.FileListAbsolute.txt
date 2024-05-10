@@ -1,0 +1,12 @@
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\bin\Debug\Database1.mdf
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\bin\Debug\Database1_log.ldf
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\bin\Debug\SQLConnection.exe.config
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\bin\Debug\SQLConnection.exe
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\bin\Debug\SQLConnection.pdb
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\obj\Debug\SQLConnection.csproj.AssemblyReference.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\obj\Debug\SQLConnection.Form1.resources
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\obj\Debug\SQLConnection.Properties.Resources.resources
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\obj\Debug\SQLConnection.csproj.GenerateResource.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\obj\Debug\SQLConnection.csproj.CoreCompileInputs.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\obj\Debug\SQLConnection.exe
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\SQLConnection\SQLConnection\obj\Debug\SQLConnection.pdb

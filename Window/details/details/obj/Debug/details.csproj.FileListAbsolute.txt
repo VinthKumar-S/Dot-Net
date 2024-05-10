@@ -1,0 +1,14 @@
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\bin\Debug\Database1.mdf
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\bin\Debug\Database1_log.ldf
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\bin\Debug\Database2.mdf
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\bin\Debug\Database2_log.ldf
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\bin\Debug\details.exe.config
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\bin\Debug\details.exe
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\bin\Debug\details.pdb
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\obj\Debug\details.csproj.AssemblyReference.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\obj\Debug\details.Form1.resources
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\obj\Debug\details.Properties.Resources.resources
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\obj\Debug\details.csproj.GenerateResource.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\obj\Debug\details.csproj.CoreCompileInputs.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\obj\Debug\details.exe
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\details\details\obj\Debug\details.pdb
