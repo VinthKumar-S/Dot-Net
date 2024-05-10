@@ -1,0 +1,12 @@
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Database1.mdf
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Database1_log.ldf
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
