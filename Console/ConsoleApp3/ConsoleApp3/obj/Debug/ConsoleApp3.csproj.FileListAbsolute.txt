@@ -1,0 +1,7 @@
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Documents\PDF(for all)\4 Year\Sem 2\Dot Net Lab\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
